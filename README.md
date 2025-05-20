@@ -92,7 +92,6 @@ Adicione abaixo as capturas de tela das principais etapas do seu projeto. Isso a
 ![Captura de Tela (92)](https://github.com/user-attachments/assets/45e249b6-c153-4d6a-aaf2-faf655f82148)
 ![Captura de Tela (93)](https://github.com/user-attachments/assets/10b19448-6567-4d04-bdf6-985b2e49b9ec)
 ![Captura de Tela (94)](https://github.com/user-attachments/assets/06ed9330-6f99-4a67-9afe-c28c9e7cc5b6)
-![Captura de Tela (95)](https://github.com/user-attachments/assets/504bc61b-ea64-41db-9175-813d7215f398)
 ![Captura de Tela (96)](https://github.com/user-attachments/assets/5c345ee0-2f77-41d2-bf51-fd5b738a30a1)
 ![Captura de Tela (95)](https://github.com/user-attachments/assets/0d824871-09e0-43ea-a0f7-889825e7c610)
 ![Captura de Tela (97)](https://github.com/user-attachments/assets/d7025c52-46a4-4e33-980a-2362675d3568)
